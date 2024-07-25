@@ -8,3 +8,5 @@ Welcome to the Platinum Hub development organisation (@Platinum5Hub). This organ
 I am not affiliated with GLE, PL5, or any member of its development team. The Platinum Five 5 (PL5) logo, "PLATINUM FIVE," and other related brands are the property of GameLoaded Entertainment Pty Ltd (GLE). I do not own the original trademarks (PS: No economical income is made nor will be made from this project).
 
 Thank you for stopping by! Stay tuned for updates and announcements regarding the progress of this project.
+
+> ###### PS: In the case you found this somewhere (as I am not advertising it at all), please do not get hyped: there's no guarantee of me finishing this. I'm still a novice at coding and not all the "cool" projects I start get finished. I love this idea and will try my best, but just in case, don't get too excited. Thanks for understanding.
