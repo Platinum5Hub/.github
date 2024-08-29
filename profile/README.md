@@ -4,7 +4,7 @@ Welcome to the Platinum Hub development organisation (@Platinum5Hub). This organ
 
 This organisation is dedicated to developing a project for the [Blackhawk Rescue Mission 5 (BRM5)](https://www.roblox.com/games/2916899287/Blackhawk-Rescue-Mission-5) community. The aim is to create a simple place to have features and content tailored specifically for BRM5 enthusiasts - in other words - faction players. Platinum Hub is meant to be a simple yet powerful toolset for BRM5 factions.
 
-Please note that this project is **not an official initiative**. It is an independent project created by myself. As such, it is still a work in progress (WIP), with ongoing development.
+Please note that this project is **not an official initiative**. It is an independent project created by myself. As such, it is still a work in progress (WIP), with (slowly) ongoing development. I'll be honest, it's not my current priority. It will speed up soon after the [GEN4](https://www.youtube.com/watch?v=w-m2VMmGME4) release, probably.
 
 > [!NOTE]
 > I am not affiliated with GameLoaded Entertainment (GLE), PL5, or any member of its development team. The Platinum Five 5 (PL5) logo, "PLATINUM FIVE," and other related brands are the property of GLE. I do not own the original trademarks (PS: No economical income is made nor will be made from this project).
